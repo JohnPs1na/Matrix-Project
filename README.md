@@ -6,7 +6,7 @@ Menu Options:<br/>
  - Start Game<br/>
     As the name suggests it starts the snake game on the matrix<br/>
     
- - Change Settings
+ - Change Settings<br/>
     Changing the Matrix Brightness <br/>
     Changing the LCD Contrast <br/>
     Changing the game difficulty (snake moves faster or slower)<br/>
