@@ -23,14 +23,14 @@ Menu Options:<br/>
 [Game WIP demo video](https://youtu.be/6EfxUz8ClSY)
 
 <br/>
-Components Used
- - 2x Breadboards
- - 1x Arduino Uno Board
- - 1x Joystick
- - 1x 8x8 LED matrix
- - 1x 16x2 block LCD 
- - 1x MAX7219 LED Driver
- - 1x 10μF electrolytic capacitor
- - 1x 0.104μF ceramic capacitor
- - 1x 1kΩ resistor
- - 1x 220Ω resistor
+Components Used:
+ - 2x Breadboards<br/>
+ - 1x Arduino Uno Board<br/>
+ - 1x Joystick<br/>
+ - 1x 8x8 LED matrix<br/>
+ - 1x 16x2 block LCD <br/>
+ - 1x MAX7219 LED Driver<br/>
+ - 1x 10μF electrolytic capacitor<br/>
+ - 1x 0.104μF ceramic capacitor<br/>
+ - 1x 1kΩ resistor<br/>
+ - 1x 220Ω resistor<br/>
