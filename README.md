@@ -23,7 +23,7 @@ Menu Options:<br/>
 [Game WIP demo video](https://youtu.be/6EfxUz8ClSY)
 
 <br/>
-Components Used:
+### Components Used:<br/>
  - 2x Breadboards<br/>
  - 1x Arduino Uno Board<br/>
  - 1x Joystick<br/>
