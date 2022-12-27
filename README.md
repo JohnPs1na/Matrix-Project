@@ -19,5 +19,7 @@ Menu Options:<br/>
     Displays My name and scrolling text github link<br/>
 
 
+[Menu WIP demo video](https://www.youtube.com/watch?v=_ziVZLLWQNY&ab_channel=DenisHadirca)
+[Game WIP demo video](https://youtu.be/6EfxUz8ClSY)
 
 
