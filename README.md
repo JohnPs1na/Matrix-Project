@@ -1,6 +1,5 @@
 # Matrix-Project
-## Snake Game
-## LCD Menu 
+## Snake Game / LCD Menu 
 
 This project is snake game on a 8 x 8 matrix followed by a simple menu implemented on a Liquid Crystal Display
 Menu Options:
